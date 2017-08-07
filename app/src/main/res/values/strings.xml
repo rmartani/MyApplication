@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="codigo_label">Código:</string>
+    <string name="nome_label">Nome:</string>
+    <string name="login_label">Login:</string>
+    <string name="senha_label">Senha:</string>
+    <string name="perfil_label">Perfil:</string>
+</resources>
